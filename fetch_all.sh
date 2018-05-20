@@ -3,7 +3,7 @@ countries="40 56 58 100 196 203 200 208 233 246 278 280 251 276 300 348 372 381 
 
 datadir="./data"
 year="1962"
-end="2016"
+end="2017"
 
 # UN COMM Trade URL
 uitoken="e017c8c439121090e5791a8dc7dfcb6c"
@@ -11,7 +11,6 @@ fmt="json"
 
 while [ "$year" -lt "$end" ]; do
   mkdir -p ${datadir}/${year}/noData
-  rmdir ${datadir}/${year}/noData/zero
   mkdir -p ${datadir}/${year}/${fmt}
   for reporter in `echo $countries`; do
     if [ "$reporter" == "40" ]; then country="Austria"; fi
@@ -45,19 +44,19 @@ while [ "$year" -lt "$end" ]; do
     if [ "$reporter" == "724" ]; then country="Spain"; fi
     if [ "$reporter" == "752" ]; then country="Sweden"; fi
     if [ "$reporter" == "826" ]; then country="United_Kingdom"; fi
-    echo "Fetching data for ${country} for ${year}"
+
     if [ ! -f "${datadir}/${year}/${country}.${fmt}" ] && [ ! -f "${datadir}/${year}/noData/${country}.${fmt}" ]; then
-      torify wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
+      echo "Fetching data for ${country} for ${year}"
+      wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
       wget_code=$?
-      if [ "$wget_code" == "8" ]; then killall -HUP tor; sleep 900; torify wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}" ; fi
+      if [ "$wget_code" == "8" ]; then killall -HUP tor; echo "kicked tor, press enter when ready"; read; torify wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}" ; fi
       grep "No data matches your query or your query is too complex." ${datadir}/${year}/${country}.${fmt}; if [ "$?" == "0" ]; then mv ${datadir}/${year}/${country}.${fmt} ${datadir}/${year}/noData/; fi
-      echo $?
     fi
-    #if [ -s ${datadir}/${year}/${country}.${fmt} ]; then mv ${datadir}/${year}/${country}.${fmt} ${datadir}/${year}/noData/zero/; fi
   done
   year=$(expr $year + 1)
 done
 
+# Clean 0 byte files: find . -type f -size 0 -exec rm {} \;
 # Austria
 ##https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=1962&r=40&p=0&rg=1%2C2&cc=TOTAL&uitoken=e017c8c439121090e5791a8dc7dfcb6c&fmt=csv
 # Belgium
