@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,249320576,,249320576,,110872488,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,149425168,,149425168,,69158992,,,0
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,183961872,,183961872,,112684432,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,474027136,,474027136,,282304096,,,0
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,28662004,,28662004,,21938982,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,20579380,,20579380,,12914870,,,0
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4845057,,4845057,,3008103,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,44238,,44238,,70810,,,0
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,20315598,,20315598,,18244108,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,2404048,,2404048,,2094609,,,0
+S1,1981,1981,1981,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,128724440,,128724440,,122008632,,,0
+S1,1981,1981,1981,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,72599656,,72599656,,57769928,,,0

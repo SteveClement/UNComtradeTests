@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2009,2009,2009,3,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,809907780,,809907780,,707600465,,,6
+S1,2009,2009,2009,3,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2047397280,,2047397280,,1176264387,,,6
+S1,2009,2009,2009,3,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2951042873,,2951042873,,3068136050,,,6
+S1,2009,2009,2009,3,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,651545398,,651545398,,766968425,,,6
+S1,2009,2009,2009,3,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,34476064,,34476064,,36270321,,,0
+S1,2009,2009,2009,3,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,142460101,,142460101,,159673790,,,6
+S1,2009,2009,2009,3,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,231789496,,231789496,,230722427,,,6
+S1,2009,2009,2009,3,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,43300099,,43300099,,42423665,,,6
+S1,2009,2009,2009,3,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,490390474,,490390474,,855551987,,,6
+S1,2009,2009,2009,3,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,291559657,,291559657,,578826834,,,6

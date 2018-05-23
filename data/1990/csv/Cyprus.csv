@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1990,1990,1990,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,114131624,,114131624,,39439608,,,0
+S1,1990,1990,1990,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,253495,,253495,,153124,,,0
+S1,1990,1990,1990,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,24307918,,24307918,,18065204,,,0
+S1,1990,1990,1990,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,104288,,104288,,53961,,,0
+S1,1990,1990,1990,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,497296,,497296,,400101,,,0
+S1,1990,1990,1990,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,15000,,15000,,14289,,,0
+S1,1990,1990,1990,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,2475896,,2475896,,1746061,,,0
+S1,1990,1990,1990,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,19,,19,,1634,,,0
+S1,1990,1990,1990,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,13938500,,13938500,,12525736,,,0
+S1,1990,1990,1990,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,100776,,100776,,97236,,,0

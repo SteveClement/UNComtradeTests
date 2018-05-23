@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2011,2011,2011,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,414322442,,414322442,,487671981,,,6
+S1,2011,2011,2011,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,456371960,,456371960,,557937683,,,6
+S1,2011,2011,2011,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,500202439,,500202439,,775328292,,,6
+S1,2011,2011,2011,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1946016275,,1946016275,,3719240204,,,6
+S1,2011,2011,2011,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,21095702,,21095702,,28915732,,,0
+S1,2011,2011,2011,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,544300,,544300,,2987272,,,6
+S1,2011,2011,2011,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,32562893,,32562893,,58956356,,,6
+S1,2011,2011,2011,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,1030060,,1030060,,2305690,,,6
+S1,2011,2011,2011,3,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,421138702,,421138702,,908560667,,,6
+S1,2011,2011,2011,3,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,1324230030,,1324230030,,1545217841,,,6

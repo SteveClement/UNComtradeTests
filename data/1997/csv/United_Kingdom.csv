@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1997,1997,1997,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1522720384,,1522720384,,922497472,,,0
+S1,1997,1997,1997,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,3399474688,,3399474688,,1352445568,,,0
+S1,1997,1997,1997,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2852259328,,2852259328,,2026834304,,,0
+S1,1997,1997,1997,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2843438592,,2843438592,,1922668416,,,0
+S1,1997,1997,1997,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,51131864,,51131864,,17710010,,,0
+S1,1997,1997,1997,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,173132768,,173132768,,103634800,,,0
+S1,1997,1997,1997,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,107228784,,107228784,,152482432,,,0
+S1,1997,1997,1997,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,191910016,,191910016,,209996304,,,0
+S1,1997,1997,1997,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,676970176,,676970176,,942217344,,,0
+S1,1997,1997,1997,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,951460544,,951460544,,1144345856,,,0

@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1992,1992,1992,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1746244096,,1746244096,,800233984,,,0
+S1,1992,1992,1992,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,699007168,,699007168,,342928160,,,0
+S1,1992,1992,1992,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1766298112,,1766298112,,1366392448,,,0
+S1,1992,1992,1992,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2449797632,,2449797632,,1459090304,,,0
+S1,1992,1992,1992,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,36493952,,36493952,,35452276,,,0
+S1,1992,1992,1992,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,18861936,,18861936,,7903260,,,0
+S1,1992,1992,1992,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,131972816,,131972816,,133404440,,,0
+S1,1992,1992,1992,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,16438954,,16438954,,29104848,,,0
+S1,1992,1992,1992,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,707426048,,707426048,,844919552,,,0
+S1,1992,1992,1992,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,709416000,,709416000,,661779072,,,0

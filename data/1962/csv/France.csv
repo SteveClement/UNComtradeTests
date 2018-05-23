@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,973541696,,973541696,,119450480,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1903364608,,1903364608,,196658256,,,0
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,968809536,,968809536,,144176400,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1893490944,,1893490944,,313870784,,,0
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,198529760,,198529760,,28190964,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,214344464,,214344464,,27893476,,,0
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,15048972,,15048972,,1478974,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,223509376,,223509376,,26214160,,,0
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,38989512,,38989512,,9244625,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,89396760,,89396760,,14521663,,,0
+S1,1962,1962,1962,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,116798592,,116798592,,32388424,,,0
+S1,1962,1962,1962,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,525859296,,525859296,,115341176,,,0

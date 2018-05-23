@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,769169024,,769169024,,118677328,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1226354944,,1226354944,,202205056,,,0
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1156541056,,1156541056,,226104688,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2107620992,,2107620992,,359559264,,,0
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,69955000,,69955000,,38442440,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,124517000,,124517000,,42218484,,,0
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,141000,,141000,,41535,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,119215000,,119215000,,15040560,,,0
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,13356000,,13356000,,7638595,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,99188000,,99188000,,35983004,,,0
+S1,1972,1972,1972,3,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,190144000,,190144000,,84749136,,,0
+S1,1972,1972,1972,3,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,537043968,,537043968,,186655280,,,0

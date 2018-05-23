@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2014,2014,2014,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2788196068,,2788196068,,2078315450,,,6
+S1,2014,2014,2014,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,677781023,,677781023,,744779080,,,6
+S1,2014,2014,2014,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,3418950443,,3418950443,,4535782303,,,6
+S1,2014,2014,2014,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,6471044141,,6471044141,,6708342247,,,6
+S1,2014,2014,2014,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,41704664,,41704664,,62673739,,,0
+S1,2014,2014,2014,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,8656914,,8656914,,15244631,,,6
+S1,2014,2014,2014,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,261373311,,261373311,,307885890,,,0
+S1,2014,2014,2014,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,160511684,,160511684,,215504975,,,6
+S1,2014,2014,2014,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,881473576,,881473576,,1963423972,,,6
+S1,2014,2014,2014,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,658041540,,658041540,,1826991797,,,6

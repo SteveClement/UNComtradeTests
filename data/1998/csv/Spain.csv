@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1998,1998,1998,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1312591232,,1312591232,,589740864,,,0
+S1,1998,1998,1998,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2556014080,,2556014080,,1083719808,,,0
+S1,1998,1998,1998,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,3173502464,,3173502464,,1848406784,,,0
+S1,1998,1998,1998,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1491433984,,1491433984,,1106901632,,,0
+S1,1998,1998,1998,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,18208202,,18208202,,15194792,,,0
+S1,1998,1998,1998,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,80500872,,80500872,,54114508,,,0
+S1,1998,1998,1998,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,96132128,,96132128,,92846248,,,0
+S1,1998,1998,1998,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,166165744,,166165744,,118064432,,,0
+S1,1998,1998,1998,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,440886208,,440886208,,488054304,,,0
+S1,1998,1998,1998,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,511711104,,511711104,,568215360,,,0

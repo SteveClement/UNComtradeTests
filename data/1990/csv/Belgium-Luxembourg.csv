@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1990,1990,1990,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1192620800,,1192620800,,661550720,,,0
+S1,1990,1990,1990,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,3098529280,,3098529280,,1535458560,,,0
+S1,1990,1990,1990,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1417722496,,1417722496,,1056800448,,,0
+S1,1990,1990,1990,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,6281841664,,6281841664,,4339010560,,,0
+S1,1990,1990,1990,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,8233094,,8233094,,9674044,,,0
+S1,1990,1990,1990,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,105419704,,105419704,,78799912,,,0
+S1,1990,1990,1990,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,94229984,,94229984,,85084224,,,0
+S1,1990,1990,1990,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,454693376,,454693376,,501720992,,,0
+S1,1990,1990,1990,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,377048448,,377048448,,539866752,,,0
+S1,1990,1990,1990,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,485194976,,485194976,,427995584,,,0

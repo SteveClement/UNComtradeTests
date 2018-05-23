@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1999,1999,1999,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,405994832,,405994832,,198218022,,,0
+S1,1999,1999,1999,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,197739880,,197739880,,85475328,,,0
+S1,1999,1999,1999,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1037785396,,1037785396,,591557058,,,0
+S1,1999,1999,1999,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,577115685,,577115685,,240383300,,,0
+S1,1999,1999,1999,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,2833024,,2833024,,3309068,,,0
+S1,1999,1999,1999,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,293328,,293328,,722081,,,0
+S1,1999,1999,1999,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,39890060,,39890060,,38057956,,,0
+S1,1999,1999,1999,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,2058766,,2058766,,3406891,,,0
+S1,1999,1999,1999,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,281151702,,281151702,,297200623,,,0
+S1,1999,1999,1999,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,157485179,,157485179,,240323853,,,0

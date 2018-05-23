@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,39583472,,39583472,,10710593,,,0
+S1,1976,1976,1976,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,124575,,124575,,58902,,,0
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,10589981,,10589981,,3873035,,,0
+S1,1976,1976,1976,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,132647,,132647,,44905,,,0
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,87308,,87308,,48782,,,0
+S1,1976,1976,1976,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,4062,,4062,,4122,,,0
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,761,,761,,3060,,,0
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,2117052,,2117052,,730721,,,0
+S1,1976,1976,1976,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,15687,,15687,,5509,,,0
+S1,1976,1976,1976,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,13245478,,13245478,,6287415,,,0
+S1,1976,1976,1976,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,231439,,231439,,193848,,,0

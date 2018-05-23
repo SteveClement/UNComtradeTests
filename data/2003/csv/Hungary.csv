@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2003,2003,2003,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,542345628,,542345628,,251660000,,,6
+S1,2003,2003,2003,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,102459532,,102459532,,53342000,,,6
+S1,2003,2003,2003,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,526613434,,526613434,,396568000,,,6
+S1,2003,2003,2003,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,436826995,,436826995,,194180000,,,6
+S1,2003,2003,2003,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,19408800,,19408800,,10934000,,,0
+S1,2003,2003,2003,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,318500,,318500,,271000,,,0
+S1,2003,2003,2003,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,43705545,,43705545,,35686000,,,6
+S1,2003,2003,2003,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,5049900,,5049900,,3505000,,,0
+S1,2003,2003,2003,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,167927479,,167927479,,200255000,,,6
+S1,2003,2003,2003,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,136586637,,136586637,,86061000,,,6

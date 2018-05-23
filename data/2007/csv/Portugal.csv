@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2007,2007,2007,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1373230389,,1373230389,,1083912949,,,6
+S1,2007,2007,2007,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1181498815,,1181498815,,816104789,,,6
+S1,2007,2007,2007,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1085038824,,1085038824,,1253160144,,,6
+S1,2007,2007,2007,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,303864857,,303864857,,294576451,,,6
+S1,2007,2007,2007,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,10016558,,10016558,,15510313,,,6
+S1,2007,2007,2007,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,215527,,215527,,1202240,,,6
+S1,2007,2007,2007,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,88822637,,88822637,,103782593,,,6
+S1,2007,2007,2007,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,90028027,,90028027,,87500352,,,6
+S1,2007,2007,2007,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,221175430,,221175430,,394129036,,,6
+S1,2007,2007,2007,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,127675496,,127675496,,147660961,,,6

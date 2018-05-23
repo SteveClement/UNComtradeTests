@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,141726848,,141726848,,70257152,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,75588000,,75588000,,18898760,,,0
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,259869568,,259869568,,165792944,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,74837440,,74837440,,44310904,,,0
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,48269120,,48269120,,33213900,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,5039860,,5039860,,2732666,,,0
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,3159292,,3159292,,1700374,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,185854,,185854,,262764,,,0
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,30647906,,30647906,,25209484,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,4488601,,4488601,,2288163,,,0
+S1,1987,1987,1987,3,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,53852392,,53852392,,56373632,,,0
+S1,1987,1987,1987,3,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,2768044,,2768044,,5356151,,,0

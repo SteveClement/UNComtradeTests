@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1140149632,,1140149632,,348359040,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,522294016,,522294016,,152793952,,,0
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1059189888,,1059189888,,379810304,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1475291392,,1475291392,,469197472,,,0
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,32368400384,,32368400384,,75288248,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,84046960,,84046960,,25398408,,,0
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,47302920,,47302920,,19049090,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,30076372,,30076372,,8013813,,,0
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,81826864,,81826864,,52420752,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,27907144,,27907144,,15940684,,,0
+S1,1975,1975,1975,3,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,783750208,,783750208,,644148864,,,0
+S1,1975,1975,1975,3,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,443814080,,443814080,,265121776,,,0

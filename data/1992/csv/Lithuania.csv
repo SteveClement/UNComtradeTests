@@ -1,0 +1,7 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1992,1992,1992,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,29796000,,29796000,,5821482,,,0
+S1,1992,1992,1992,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2655000,,2655000,,373158,,,0
+S1,1992,1992,1992,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,8161000,,8161000,,2040469,,,0
+S1,1992,1992,1992,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1672000,,1672000,,279307,,,0
+S1,1992,1992,1992,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,17538792,,17538792,,4360099,,,0
+S1,1992,1992,1992,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,61817,,61817,,3946,,,0

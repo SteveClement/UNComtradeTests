@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,314811296,,314811296,,108841176,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,101221080,,101221080,,29635112,,,0
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,640754688,,640754688,,208620896,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,140161296,,140161296,,40471556,,,0
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,45932800,,45932800,,19557080,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,11183277,,11183277,,3691444,,,0
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,16048435,,16048435,,7358242,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,224055,,224055,,89106,,,0
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,18174592,,18174592,,13341944,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,7046666,,7046666,,4004097,,,0
+S1,1975,1975,1975,3,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,161056064,,161056064,,127497280,,,0
+S1,1975,1975,1975,3,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,30568288,,30568288,,26944698,,,0

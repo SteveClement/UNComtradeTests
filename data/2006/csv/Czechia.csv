@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2006,2006,2006,3,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1001098100,,1001098100,,854795334,,,0
+S1,2006,2006,2006,3,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2110758285,,2110758285,,1400941216,,,6
+S1,2006,2006,2006,3,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2787883995,,2787883995,,2592699570,,,6
+S1,2006,2006,2006,3,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1046701346,,1046701346,,914204081,,,0
+S1,2006,2006,2006,3,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,7913476,,7913476,,8413247,,,0
+S1,2006,2006,2006,3,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,231822809,,231822809,,179002576,,,0
+S1,2006,2006,2006,3,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,134446396,,134446396,,156110245,,,0
+S1,2006,2006,2006,3,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,354164393,,354164393,,348189213,,,0
+S1,2006,2006,2006,3,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,411914161,,411914161,,717303444,,,0
+S1,2006,2006,2006,3,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,550055465,,550055465,,868935378,,,6

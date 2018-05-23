@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2002,2002,2002,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,3263593935,,3263593935,,1354601481,,,6
+S1,2002,2002,2002,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2650391453,,2650391453,,1273559228,,,6
+S1,2002,2002,2002,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,5578355839,,5578355839,,2824291369,,,6
+S1,2002,2002,2002,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,5753252204,,5753252204,,3477403687,,,6
+S1,2002,2002,2002,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,43989134,,43989134,,32150658,,,6
+S1,2002,2002,2002,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,63794300,,63794300,,129481247,,,0
+S1,2002,2002,2002,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,444157797,,444157797,,285444429,,,6
+S1,2002,2002,2002,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,325110868,,325110868,,266296145,,,6
+S1,2002,2002,2002,3,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,1151048808,,1151048808,,1115482498,,,6
+S1,2002,2002,2002,3,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,1395032397,,1395032397,,1419194712,,,6

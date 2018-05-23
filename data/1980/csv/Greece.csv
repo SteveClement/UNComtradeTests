@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,207359648,,207359648,,85413472,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,167711664,,167711664,,53062076,,,0
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,208611360,,208611360,,152713584,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,173120144,,173120144,,86017328,,,0
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,121632352,,121632352,,49028804,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,10788480,,10788480,,6257390,,,0
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,1118468,,1118468,,825638,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,75210,,75210,,134221,,,0
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,8404946,,8404946,,7699829,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,4382176,,4382176,,2474549,,,0
+S1,1980,1980,1980,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,31318240,,31318240,,36627800,,,0
+S1,1980,1980,1980,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,96164088,,96164088,,54173104,,,0

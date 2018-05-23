@@ -1,0 +1,12 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,62647320,,62647320,,7638641,,,0
+S1,1964,1964,1964,3,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,16440154,,16440154,,1243372,,,0
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,67696112,,67696112,,9811533,,,0
+S1,1964,1964,1964,3,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,977441,,977441,,150079,,,0
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,4129288,,4129288,,1053523,,,0
+S1,1964,1964,1964,3,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,149432,,149432,,285551,,,0
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4970435,,4970435,,589444,,,0
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,5468621,,5468621,,1363454,,,0
+S1,1964,1964,1964,3,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,1143224,,1143224,,176392,,,0
+S1,1964,1964,1964,3,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,29125064,,29125064,,6888222,,,0
+S1,1964,1964,1964,3,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,182046,,182046,,70051,,,0

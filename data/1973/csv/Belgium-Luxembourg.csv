@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,764215168,,764215168,,178593664,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,6466049024,,6466049024,,1247357440,,,0
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,669147136,,669147136,,181371440,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,5334966784,,5334966784,,1297357184,,,0
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,126810872,,126810872,,39431576,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,921683392,,921683392,,218240848,,,0
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,6724785,,6724785,,2502910,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,102168048,,102168048,,20415428,,,0
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,44975004,,44975004,,17872100,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,450075520,,450075520,,180753680,,,0
+S1,1973,1973,1973,3,0,1,Import,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,165507488,,165507488,,94320320,,,0
+S1,1973,1973,1973,3,0,2,Export,58,Belgium-Luxembourg,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,326899648,,326899648,,104236600,,,0

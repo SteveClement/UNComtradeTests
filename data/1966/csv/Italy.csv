@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,467596128,,467596128,,63135396,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,661411200,,661411200,,76043080,,,0
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,940917504,,940917504,,133415616,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,717230720,,717230720,,118204960,,,0
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,121327840,,121327840,,19975752,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,70747816,,70747816,,10348249,,,0
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,26346580,,26346580,,2266783,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,18347984,,18347984,,2492319,,,0
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,19799192,,19799192,,5775106,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,14611852,,14611852,,4739403,,,0
+S1,1966,1966,1966,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,76381384,,76381384,,27457302,,,0
+S1,1966,1966,1966,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,455577920,,455577920,,102409056,,,0

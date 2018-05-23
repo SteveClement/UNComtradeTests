@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2014,2014,2014,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,389702359,,389702359,,279105179,,,0
+S1,2014,2014,2014,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,123228456,,123228456,,99915232,,,0
+S1,2014,2014,2014,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,232565726,,232565726,,235197378,,,0
+S1,2014,2014,2014,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,41146491,,41146491,,49535418,,,0
+S1,2014,2014,2014,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,16841060,,16841060,,22918500,,,0
+S1,2014,2014,2014,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,2377498,,2377498,,4310143,,,0
+S1,2014,2014,2014,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,80785980,,80785980,,60625279,,,0
+S1,2014,2014,2014,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,71569525,,71569525,,52525026,,,0
+S1,2014,2014,2014,3,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,124600982,,124600982,,165256255,,,0
+S1,2014,2014,2014,3,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,28302091,,28302091,,70304869,,,0

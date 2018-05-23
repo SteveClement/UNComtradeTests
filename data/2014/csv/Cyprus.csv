@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2014,2014,2014,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,76325331,,76325331,,48682962,,,0
+S1,2014,2014,2014,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1500,,1500,,1491,,,0
+S1,2014,2014,2014,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,18884465,,18884465,,18471131,,,0
+S1,2014,2014,2014,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,86824,,86824,,127403,,,0
+S1,2014,2014,2014,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,31260,,31260,,70176,,,0
+S1,2014,2014,2014,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,2019091,,2019091,,2341665,,,0
+S1,2014,2014,2014,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,543,,543,,12616,,,0
+S1,2014,2014,2014,3,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,6451127,,6451127,,24934874,,,0
+S1,2014,2014,2014,3,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,151972,,151972,,679927,,,0

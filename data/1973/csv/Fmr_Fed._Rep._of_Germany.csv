@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,3177756416,,3177756416,,704448000,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,4081046528,,4081046528,,1002252992,,,0
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,3789601792,,3789601792,,981126976,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,6150403072,,6150403072,,1524496000,,,0
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,568803584,,568803584,,170916992,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,909700416,,909700416,,345596992,,,0
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,28884744,,28884744,,3552000,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,159792096,,159792096,,41054000,,,0
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,183891488,,183891488,,80582000,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,310271808,,310271808,,149312992,,,0
+S1,1973,1973,1973,3,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,616762688,,616762688,,261052000,,,0
+S1,1973,1973,1973,3,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,3032814080,,3032814080,,1248262016,,,0

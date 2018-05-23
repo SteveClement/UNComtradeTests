@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2013,2013,2013,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,757765547,,757765547,,832386337,,,6
+S1,2013,2013,2013,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,430453874,,430453874,,1081546801,,,6
+S1,2013,2013,2013,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1793522705,,1793522705,,2208454048,,,6
+S1,2013,2013,2013,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1939714060,,1939714060,,3224618608,,,6
+S1,2013,2013,2013,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,57195244,,57195244,,82211595,,,6
+S1,2013,2013,2013,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,12951494,,12951494,,15864157,,,6
+S1,2013,2013,2013,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,61328195,,61328195,,115445136,,,6
+S1,2013,2013,2013,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,62657621,,62657621,,262651286,,,6
+S1,2013,2013,2013,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,310311749,,310311749,,689259328,,,6
+S1,2013,2013,2013,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,129522966,,129522966,,851255706,,,6

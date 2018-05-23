@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,111588816,,111588816,,14890905,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,71202664,,71202664,,7857694,,,0
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,223099248,,223099248,,52152868,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,27924998,,27924998,,4099594,,,0
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,21750016,,21750016,,9054867,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,3511833,,3511833,,380511,,,0
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4686789,,4686789,,463512,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,29779,,29779,,13057,,,0
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,6667235,,6667235,,3002810,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,1899517,,1899517,,395358,,,0
+S1,1968,1968,1968,3,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,37715976,,37715976,,15558789,,,0
+S1,1968,1968,1968,3,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,20075046,,20075046,,4862263,,,0

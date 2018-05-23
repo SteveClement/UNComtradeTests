@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2003,2003,2003,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2818876568,,2818876568,,1507380489,,,0
+S1,2003,2003,2003,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,3711305693,,3711305693,,2153177896,,,6
+S1,2003,2003,2003,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,5471855263,,5471855263,,3869151831,,,0
+S1,2003,2003,2003,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,2725293233,,2725293233,,1927349858,,,0
+S1,2003,2003,2003,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,26674359,,26674359,,30690621,,,0
+S1,2003,2003,2003,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,127362922,,127362922,,67426334,,,0
+S1,2003,2003,2003,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,196488490,,196488490,,201110953,,,0
+S1,2003,2003,2003,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,376544056,,376544056,,320453756,,,0
+S1,2003,2003,2003,3,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,960761376,,960761376,,1081947059,,,6
+S1,2003,2003,2003,3,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,2292257518,,2292257518,,3138156039,,,0

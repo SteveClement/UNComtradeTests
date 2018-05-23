@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1996,1996,1996,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,49878100,,49878100,,11169532,,,0
+S1,1996,1996,1996,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,10570,,10570,,9147,,,0
+S1,1996,1996,1996,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,13826052,,13826052,,12228049,,,0
+S1,1996,1996,1996,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,10976,,10976,,23299,,,0
+S1,1996,1996,1996,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,87396,,87396,,78385,,,0
+S1,1996,1996,1996,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,4595057,,4595057,,2212411,,,0
+S1,1996,1996,1996,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,58542,,58542,,39472,,,0
+S1,1996,1996,1996,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",4,Length in metres,,,3739895,,0,,6887263,,,0
+S1,1996,1996,1996,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",4,Length in metres,,,71,,0,,34560,,,0

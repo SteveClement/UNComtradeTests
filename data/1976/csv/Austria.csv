@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,169791200,,169791200,,58461072,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,294084256,,294084256,,168833856,,,0
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,151838880,,151838880,,73751176,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,936284096,,936284096,,304890656,,,0
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,37660928,,37660928,,22110678,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,97029472,,97029472,,43192400,,,0
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,3066825,,3066825,,1103104,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,111379144,,111379144,,44049136,,,0
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,15796886,,15796886,,11744070,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,53195616,,53195616,,27150816,,,0
+S1,1976,1976,1976,3,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,132846288,,132846288,,104279272,,,0
+S1,1976,1976,1976,3,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,153150336,,153150336,,127658496,,,0

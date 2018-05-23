@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2014,2014,2014,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,214127868,,214127868,,149154556,,,0
+S1,2014,2014,2014,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,487954836,,487954836,,294202473,,,0
+S1,2014,2014,2014,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,393844578,,393844578,,394978892,,,0
+S1,2014,2014,2014,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,178890521,,178890521,,171015020,,,0
+S1,2014,2014,2014,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,1203912,,1203912,,3403995,,,0
+S1,2014,2014,2014,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,752856,,752856,,705536,,,0
+S1,2014,2014,2014,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,24943260,,24943260,,29638903,,,0
+S1,2014,2014,2014,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,21149763,,21149763,,19286713,,,0
+S1,2014,2014,2014,3,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,91424410,,91424410,,120496669,,,0
+S1,2014,2014,2014,3,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,180775796,,180775796,,198494823,,,0

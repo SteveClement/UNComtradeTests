@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,397575424,,397575424,,64914416,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,387004352,,387004352,,111948496,,,0
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,857508736,,857508736,,152462240,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,640912128,,640912128,,180208080,,,0
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,82102680,,82102680,,16478085,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,8,Weight in kilograms,,,60290760,,60290760,,60197148,,,0
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4776973,,4776973,,1240966,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,34600848,,34600848,,3243543,,,0
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,22890976,,22890976,,7906434,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,57812868,,57812868,,47035272,,,0
+S1,1971,1971,1971,3,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,205729008,,205729008,,64670000,,,0
+S1,1971,1971,1971,3,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,179869792,,179869792,,112303920,,,0

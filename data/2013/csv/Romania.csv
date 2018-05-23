@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2013,2013,2013,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,908296529,,908296529,,805157835,,,6
+S1,2013,2013,2013,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,264436103,,264436103,,262682832,,,6
+S1,2013,2013,2013,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1014940249,,1014940249,,1010156342,,,6
+S1,2013,2013,2013,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,691619941,,691619941,,687899255,,,6
+S1,2013,2013,2013,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,28853777,,28853777,,34288027,,,6
+S1,2013,2013,2013,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,5916505,,5916505,,15337690,,,0
+S1,2013,2013,2013,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,119011111,,119011111,,174016474,,,6
+S1,2013,2013,2013,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,51899872,,51899872,,49490249,,,6
+S1,2013,2013,2013,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,240938191,,240938191,,433705518,,,6
+S1,2013,2013,2013,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,507746548,,507746548,,746630050,,,6

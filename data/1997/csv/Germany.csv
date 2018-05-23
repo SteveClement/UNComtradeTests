@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1997,1997,1997,3,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,5321444864,,5321444864,,2373460992,,,0
+S1,1997,1997,1997,3,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,5184055296,,5184055296,,2576792320,,,0
+S1,1997,1997,1997,3,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,7007001088,,7007001088,,4333333504,,,0
+S1,1997,1997,1997,3,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,9704373248,,9704373248,,6256827392,,,0
+S1,1997,1997,1997,3,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,183211472,,183211472,,110041944,,,0
+S1,1997,1997,1997,3,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,115497952,,115497952,,98833672,,,0
+S1,1997,1997,1997,3,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,557942912,,557942912,,473266112,,,0
+S1,1997,1997,1997,3,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,281102368,,281102368,,312315968,,,0
+S1,1997,1997,1997,3,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,1895885312,,1895885312,,1782137728,,,0
+S1,1997,1997,1997,3,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,2782746112,,2782746112,,3279006464,,,0

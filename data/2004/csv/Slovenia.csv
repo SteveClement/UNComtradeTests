@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2004,2004,2004,3,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,373489822,,373489822,,240490609,,,6
+S1,2004,2004,2004,3,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,176671605,,176671605,,176324295,,,6
+S1,2004,2004,2004,3,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,532107316,,532107316,,448654083,,,6
+S1,2004,2004,2004,3,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,169769158,,169769158,,257633481,,,6
+S1,2004,2004,2004,3,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4045598,,4045598,,6915723,,,6
+S1,2004,2004,2004,3,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,35054,,35054,,119018,,,6
+S1,2004,2004,2004,3,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,44551488,,44551488,,41516366,,,6
+S1,2004,2004,2004,3,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,5761927,,5761927,,6151946,,,6
+S1,2004,2004,2004,3,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,165826803,,165826803,,116289482,,,6
+S1,2004,2004,2004,3,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,74332495,,74332495,,70614995,,,6

@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1990,1990,1990,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,148098000,,148098000,,41531000,,,0
+S1,1990,1990,1990,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,701091008,,701091008,,192496000,,,0
+S1,1990,1990,1990,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,64144000,,64144000,,62600000,,,0
+S1,1990,1990,1990,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,917920000,,917920000,,317376000,,,0
+S1,1990,1990,1990,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,103471000,,103471000,,28449000,,,0
+S1,1990,1990,1990,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,1365000,,1365000,,3614000,,,0
+S1,1990,1990,1990,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,37523000,,37523000,,12218000,,,0
+S1,1990,1990,1990,3,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,26200000,,26200000,,24816000,,,0
+S1,1990,1990,1990,3,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,157358000,,157358000,,55735000,,,0

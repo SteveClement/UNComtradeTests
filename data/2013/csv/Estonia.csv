@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2013,2013,2013,3,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,85903981,,85903981,,88478701,,,6
+S1,2013,2013,2013,3,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,45237170,,45237170,,54472295,,,0
+S1,2013,2013,2013,3,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,298733209,,298733209,,322628354,,,6
+S1,2013,2013,2013,3,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,62360409,,62360409,,80976099,,,0
+S1,2013,2013,2013,3,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4439115,,4439115,,6689646,,,0
+S1,2013,2013,2013,3,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,1864248,,1864248,,3566221,,,0
+S1,2013,2013,2013,3,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,8653952,,8653952,,10180588,,,6
+S1,2013,2013,2013,3,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,892396,,892396,,1889244,,,0
+S1,2013,2013,2013,3,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,79943038,,79943038,,128571798,,,6
+S1,2013,2013,2013,3,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,18383015,,18383015,,63702609,,,6

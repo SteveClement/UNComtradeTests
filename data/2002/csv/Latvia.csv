@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2002,2002,2002,3,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,96608263,,96608263,,28181885,,,0
+S1,2002,2002,2002,3,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,561613439,,561613439,,112634298,,,0
+S1,2002,2002,2002,3,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,118859481,,118859481,,54572113,,,0
+S1,2002,2002,2002,3,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,7972713,,7972713,,3162467,,,6
+S1,2002,2002,2002,3,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,17440093,,17440093,,8976806,,,6
+S1,2002,2002,2002,3,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,2519840,,2519840,,1558142,,,0
+S1,2002,2002,2002,3,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,6272606,,6272606,,2866317,,,6
+S1,2002,2002,2002,3,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,13300784,,13300784,,4193410,,,0
+S1,2002,2002,2002,3,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,48263589,,48263589,,28631700,,,6
+S1,2002,2002,2002,3,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,9101183,,9101183,,5099014,,,0

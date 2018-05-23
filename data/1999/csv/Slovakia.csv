@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1999,1999,1999,3,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,335139330,,335139330,,103598921,,,0
+S1,1999,1999,1999,3,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,42680487,,42680487,,22953946,,,0
+S1,1999,1999,1999,3,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,176985556,,176985556,,82793658,,,0
+S1,1999,1999,1999,3,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1774189978,,1774189978,,544982345,,,0
+S1,1999,1999,1999,3,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,24098787,,24098787,,6992726,,,0
+S1,1999,1999,1999,3,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,572398,,572398,,76648,,,0
+S1,1999,1999,1999,3,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,34123509,,34123509,,15236018,,,0
+S1,1999,1999,1999,3,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,30118979,,30118979,,13139320,,,0
+S1,1999,1999,1999,3,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,70677543,,70677543,,57467508,,,0
+S1,1999,1999,1999,3,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,169955578,,169955578,,95202831,,,0

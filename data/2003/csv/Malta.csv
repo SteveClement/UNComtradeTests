@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2003,2003,2003,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,36994594,,36994594,,13602650,,,6
+S1,2003,2003,2003,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,31961,,31961,,38401,,,0
+S1,2003,2003,2003,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,11354825,,11354825,,12478490,,,6
+S1,2003,2003,2003,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,12066,,12066,,14231,,,0
+S1,2003,2003,2003,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,207826,,207826,,130771,,,0
+S1,2003,2003,2003,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,100,,100,,106,,,0
+S1,2003,2003,2003,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,824989,,824989,,558649,,,0
+S1,2003,2003,2003,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,27950,,27950,,9679,,,0
+S1,2003,2003,2003,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,4619389,,4619389,,6253581,,,6
+S1,2003,2003,2003,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,10051,,10051,,36042,,,6

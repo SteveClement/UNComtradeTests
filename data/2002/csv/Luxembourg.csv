@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2002,2002,2002,3,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,327272435,,327272435,,106159111,,,0
+S1,2002,2002,2002,3,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,2897677917,,2897677917,,999915913,,,0
+S1,2002,2002,2002,3,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,938403050,,938403050,,314412720,,,0
+S1,2002,2002,2002,3,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,1086787832,,1086787832,,442069027,,,0
+S1,2002,2002,2002,3,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,15594327,,15594327,,12083159,,,0
+S1,2002,2002,2002,3,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,47236548,,47236548,,36027878,,,0
+S1,2002,2002,2002,3,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,8925178,,8925178,,5876566,,,0
+S1,2002,2002,2002,3,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,104155863,,104155863,,71985954,,,0
+S1,2002,2002,2002,3,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,11870993,,11870993,,25432217,,,0
+S1,2002,2002,2002,3,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,22525086,,22525086,,16290899,,,0

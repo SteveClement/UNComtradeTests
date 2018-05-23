@@ -1,0 +1,10 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1994,1994,1994,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,112530120,,112530120,,50587000,,,0
+S1,1994,1994,1994,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,161694000,,161694000,,49247000,,,0
+S1,1994,1994,1994,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,168410112,,168410112,,116844000,,,0
+S1,1994,1994,1994,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,327684736,,327684736,,119325000,,,0
+S1,1994,1994,1994,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,5405951,,5405951,,4914000,,,0
+S1,1994,1994,1994,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,22435632,,22435632,,16351000,,,0
+S1,1994,1994,1994,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,1574788,,1574788,,1058000,,,0
+S1,1994,1994,1994,3,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,56897708,,56897708,,67388000,,,0
+S1,1994,1994,1994,3,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,91660720,,91660720,,49544000,,,0

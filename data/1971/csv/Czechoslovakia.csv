@@ -1,0 +1,13 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",1,No Quantity,,,0,,0,,15002370,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",1,No Quantity,,,0,,0,,90971584,,,0
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",1,No Quantity,,,0,,0,,52527956,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",1,No Quantity,,,0,,0,,105149792,,,0
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,1,No Quantity,,,0,,0,,6638337,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,675,Hoop and strip of iron or steel,1,No Quantity,,,0,,0,,45528080,,,0
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,1,No Quantity,,,0,,0,,380416,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,1,No Quantity,,,0,,0,,5843476,,,0
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",1,No Quantity,,,0,,0,,939167,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",1,No Quantity,,,0,,0,,7228752,,,0
+S1,1971,1971,1971,3,0,1,Import,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",1,No Quantity,,,0,,0,,52641844,,,0
+S1,1971,1971,1971,3,0,2,Export,200,Czechoslovakia,CSK,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",1,No Quantity,,,0,,0,,72258240,,,0

@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2011,2011,2011,3,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1842054663,,1842054663,,1960600641,,,6
+S1,2011,2011,2011,3,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,1545713286,,1545713286,,1769301908,,,6
+S1,2011,2011,2011,3,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,5805410332,,5805410332,,6209525120,,,6
+S1,2011,2011,2011,3,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,9786835364,,9786835364,,12285851159,,,6
+S1,2011,2011,2011,3,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,101337681,,101337681,,162334974,,,6
+S1,2011,2011,2011,3,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,47532211,,47532211,,119535809,,,6
+S1,2011,2011,2011,3,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,173424631,,173424631,,276828197,,,6
+S1,2011,2011,2011,3,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,289294689,,289294689,,380811107,,,6
+S1,2011,2011,2011,3,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,660831519,,660831519,,1403950947,,,6
+S1,2011,2011,2011,3,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,419066810,,419066810,,992797875,,,6

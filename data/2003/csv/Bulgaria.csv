@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,2003,2003,2003,3,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,321620596,,321620596,,105631969,,,0
+S1,2003,2003,2003,3,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,127489799,,127489799,,38260201,,,0
+S1,2003,2003,2003,3,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,178853675,,178853675,,97191124,,,0
+S1,2003,2003,2003,3,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,580243914,,580243914,,206803729,,,0
+S1,2003,2003,2003,3,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,2766969,,2766969,,2716439,,,0
+S1,2003,2003,2003,3,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,1607536,,1607536,,2508897,,,0
+S1,2003,2003,2003,3,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,15125763,,15125763,,7525463,,,0
+S1,2003,2003,2003,3,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,12975895,,12975895,,5484614,,,0
+S1,2003,2003,2003,3,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,55155015,,55155015,,43719615,,,0
+S1,2003,2003,2003,3,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",8,Weight in kilograms,,,28095010,,28095010,,21650082,,,0

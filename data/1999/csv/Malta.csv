@@ -1,0 +1,11 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+S1,1999,1999,1999,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,46871128,,46871128,,8883275,,,0
+S1,1999,1999,1999,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,673,"Iron and steel bars,rods,angles,shapes,sections",8,Weight in kilograms,,,53148,,53148,,44420,,,0
+S1,1999,1999,1999,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,8808801,,8808801,,7262494,,,0
+S1,1999,1999,1999,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,674,"Universals,plates and sheets of iron or steel",8,Weight in kilograms,,,87923,,87923,,211800,,,0
+S1,1999,1999,1999,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,4419,,4419,,8354,,,0
+S1,1999,1999,1999,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,676,Rails & rlwy track constr mat. Of iron or steel,8,Weight in kilograms,,,1687,,1687,,28176,,,0
+S1,1999,1999,1999,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,748142,,748142,,435930,,,0
+S1,1999,1999,1999,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,677,"Iron and steel wire, excluding wire rod",8,Weight in kilograms,,,59745,,59745,,43088,,,0
+S1,1999,1999,1999,3,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",5,Number of items,,,10813873,,0,,8452386,,,0
+S1,1999,1999,1999,3,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,678,"Tubes,pipes and fittings of iron or steel",5,Number of items,,,83431,,0,,217593,,,0
