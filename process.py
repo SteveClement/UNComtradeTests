@@ -40,7 +40,9 @@ while cYear < end:
                     #print('We have data for {} in year {}'.format(file[:-5], str(year)))
                     sum=0
                     for entry in jFile['dataset']:
-                        sum += entry['NetWeight']
+                        # code 1 == Import -- code 2 == Export
+                        if entry['rgCode'] == 2:
+                            sum += entry['NetWeight']
                     #print(f'Sum for {file[:-5]} in year {cYear} is {sum}')
                     print(f'{cYear},{file[:-5]},{sum}')
                 f.close()
