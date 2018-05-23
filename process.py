@@ -26,11 +26,14 @@ while cYear < end:
 #    for countryID in countries:
 #        for jID in jCountries['results']:
 #            print(jID[countryID])
-    pDir = os.path.join(datadir + '/' + str(year) + '/' + fmt)
+    pDir = os.path.join(datadir + '/' + str(cYear) + '/' + fmt)
     pFiles = os.listdir(pDir)
     for file in pFiles:
         pFile=os.path.join(pDir+'/'+file)
         if file.endswith(fmt):
+            #print(f'Processing file {pFile} for {cYear}')
+            sum=0
+            entry = []
             with open(pFile) as f:
                 jFile = json.load(f)
                 if not jFile['dataset']:
@@ -38,12 +41,15 @@ while cYear < end:
                     print(f'{cYear},{file[:-5]},noData')
                 else:
                     #print('We have data for {} in year {}'.format(file[:-5], str(year)))
-                    sum=0
                     for entry in jFile['dataset']:
                         # code 1 == Import -- code 2 == Export
-                        if entry['rgCode'] == 2:
+                        if entry['period'] != cYear:
+                            print(f"/!\ {file[:-5]} {cYear} got {entry['period']}")
+                        if entry['rgCode'] == 2 and entry['NetWeight'] is not None:
+                            #try:
                             sum += entry['NetWeight']
+                            #except TypeError as e:
+                            #    print(f"Errors in: {cYear} {file[:-5]} {print(type(entry['NetWeight']))}")
                     #print(f'Sum for {file[:-5]} in year {cYear} is {sum}')
                     print(f'{cYear},{file[:-5]},{sum}')
-                f.close()
     cYear += 1

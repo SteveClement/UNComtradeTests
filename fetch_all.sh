@@ -6,7 +6,8 @@ year="1962"
 end="2017"
 
 # UN COMM Trade URL
-uitoken="e017c8c439121090e5791a8dc7dfcb6c"
+##uitoken="e017c8c439121090e5791a8dc7dfcb6c"
+uitoken="702cdf771f21634410207d1ddeaddf0b"
 fmt="json"
 
 while [ "$year" -lt "$end" ]; do
@@ -45,12 +46,12 @@ while [ "$year" -lt "$end" ]; do
     if [ "$reporter" == "752" ]; then country="Sweden"; fi
     if [ "$reporter" == "826" ]; then country="United_Kingdom"; fi
 
-    if [ ! -f "${datadir}/${year}/${country}.${fmt}" ] && [ ! -f "${datadir}/${year}/noData/${country}.${fmt}" ]; then
+    if [ ! -f "${datadir}/${year}/${fmt}/${country}.${fmt}" ] && [ ! -f "${datadir}/${year}/noData/${country}.${fmt}" ]; then
       echo "Fetching data for ${country} for ${year}"
-      wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
+      wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
       wget_code=$?
-      if [ "$wget_code" == "8" ]; then killall -HUP tor; echo "kicked tor, press enter when ready"; read; torify wget -O ${datadir}/${year}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}" ; fi
-      grep "No data matches your query or your query is too complex." ${datadir}/${year}/${country}.${fmt}; if [ "$?" == "0" ]; then mv ${datadir}/${year}/${country}.${fmt} ${datadir}/${year}/noData/; fi
+      if [ "$wget_code" == "8" ]; then killall -HUP tor; echo "kicked tor, press enter when ready"; read; torify wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}" ; fi
+      grep "No data matches your query or your query is too complex." ${datadir}/${year}/${fmt}/${country}.${fmt}; if [ "$?" == "0" ]; then mv ${datadir}/${year}/${country}.${fmt} ${datadir}/${year}/noData/; fi
     fi
   done
   year=$(expr $year + 1)
@@ -62,4 +63,4 @@ done
 # Belgium
 ##https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=1962&r=56&p=0&rg=1%2C2&cc=TOTAL&uitoken=e017c8c439121090e5791a8dc7dfcb6c&fmt=csv
 # Belgium-Luxembourg
-##https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=1962&r=58&p=0&rg=1%2C2&cc=TOTAL&uitoken=e017c8c439121090e5791a8dc7dfcb6c&fmt=csv
+##https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=2001&r=58&p=0&rg=1%2C2&cc=TOTAL&uitoken=e017c8c439121090e5791a8dc7dfcb6c&fmt=json
