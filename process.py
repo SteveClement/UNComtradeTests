@@ -45,11 +45,8 @@ while cYear < end:
                         # code 1 == Import -- code 2 == Export
                         if entry['period'] != cYear:
                             print(f"/!\ {file[:-5]} {cYear} got {entry['period']}")
-                        if entry['rgCode'] == 2 and entry['NetWeight'] is not None:
-                            #try:
+                        if entry['rgCode'] == 1 and entry['NetWeight'] is not None:
                             sum += entry['NetWeight']
-                            #except TypeError as e:
-                            #    print(f"Errors in: {cYear} {file[:-5]} {print(type(entry['NetWeight']))}")
                     #print(f'Sum for {file[:-5]} in year {cYear} is {sum}')
                     print(f'{cYear},{file[:-5]},{sum}')
     cYear += 1
