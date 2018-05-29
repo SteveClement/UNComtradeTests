@@ -46,7 +46,7 @@ while cYear < end:
                 jFile = json.load(f)
                 if not jFile['dataset']:
                     #print('No data for {} in year {}'.format(file[:-5], str(year)))
-                    #print(f'{cYear},{file[:-5]},noData')
+                    print(f'{cYear},{file[:-5]},noData')
                     resultImport.append(f'{cYear},{file[:-5]},noData')
                     resultExport.append(f'{cYear},{file[:-5]},noData')
                 else:
@@ -55,28 +55,29 @@ while cYear < end:
                         # code 1 == Import -- code 2 == Export
                         if entry['period'] != cYear:
                             print(f"/!\ {file[:-5]} {cYear} got {entry['period']}")
-                        if entry['rgCode'] == 1 and entry['NetWeight'] is not None:
+                        if entry['rgCode'] == 1 and entry['NetWeight'] is not None and entry['cmdCode'] != "2820":
                             sumImport += entry['NetWeight']
                         if entry['period'] != cYear:
                             print(f"/!\ {file[:-5]} {cYear} got {entry['period']}")
-                        if entry['rgCode'] == 2 and entry['NetWeight'] is not None:
+                        if entry['rgCode'] == 2 and entry['NetWeight'] is not None and entry['cmdCode'] != "2820":
                             sumExport += entry['NetWeight']
                     #print(f'Sum for {file[:-5]} in year {cYear} is {sum}')
-                    #print(f'{cYear},{file[:-5]},{sumImport}')
+                    print(f'{cYear},{file[:-5]},{sumImport}')
+                    #print(f'{cYear},{file[:-5]},{sumExport}')
                     resultImport.append(f'{cYear},{file[:-5]},{sumImport}')
                     resultExport.append(f'{cYear},{file[:-5]},{sumExport}')
     cYear += 1
 #print(resultImport)
 #print(resultExport)
-cYear=year
-print (headerImport)
-while cYear < end:
+#cYear=year
+#print (headerImport)
+#while cYear < end:
 #    print(csv.split(',')[0])
-    for csv in resultImport:
-        print(csv)
-        sys.exit()
-        for country in csv.split(',')[1]:
-            print(country)
-        if csv.split(',')[0] == cYear:
-            print(csv.split(',')[2] + ',',end='')
-
+#    for csv in resultImport:
+#        print(csv)
+#        sys.exit()
+#        for country in csv.split(',')[1]:
+#            print(country)
+#        if csv.split(',')[0] == cYear:
+#            print(csv.split(',')[2] + ',',end='')
+#

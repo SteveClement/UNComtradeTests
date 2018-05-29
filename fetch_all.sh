@@ -7,7 +7,8 @@ end="2017"
 
 # UN COMM Trade URL
 ##uitoken="e017c8c439121090e5791a8dc7dfcb6c"
-uitoken="702cdf771f21634410207d1ddeaddf0b"
+##uitoken="702cdf771f21634410207d1ddeaddf0b"
+uitoken="e729de413128a1a1768ffafc292bde7a"
 fmt="json"
 
 while [ "$year" -lt "$end" ]; do
@@ -48,9 +49,10 @@ while [ "$year" -lt "$end" ]; do
 
     if [ ! -f "${datadir}/${year}/${fmt}/${country}.${fmt}" ] && [ ! -f "${datadir}/${year}/noData/${country}.${fmt}" ]; then
       echo "Fetching data for ${country} for ${year}"
-      wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
+      torify wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=6711%2C6712%2C2820&uitoken=${uitoken}&fmt=${fmt}"
+      #"https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}"
       wget_code=$?
-      if [ "$wget_code" == "8" ]; then killall -HUP tor; echo "kicked tor, press enter when ready"; read; torify wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=673%2C674%2C675%2C676%2C677%2C678&uitoken=${uitoken}&fmt=${fmt}" ; fi
+      if [ "$wget_code" == "8" ]; then killall tor; echo "kicked tor, press enter when ready"; sleep 30; torify wget -O ${datadir}/${year}/${fmt}/${country}.${fmt} "https://comtrade.un.org/api/get?max=50000&type=C&freq=A&px=S1&ps=${year}&r=${reporter}&p=0&rg=1%2C2&cc=6711%2C6712%2C2820&uitoken=${uitoken}&fmt=${fmt}" ; fi
       grep "No data matches your query or your query is too complex." ${datadir}/${year}/${fmt}/${country}.${fmt}; if [ "$?" == "0" ]; then mv ${datadir}/${year}/${country}.${fmt} ${datadir}/${year}/noData/; fi
     fi
   done
